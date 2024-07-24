@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<General>
+	<Username>Roronoa Zoro</Username>
+	<Address>123@gmail.com</Address>
+	<Password>123456</Password>
+	<MailServer>127.0.0.1</MailServer>
+	<SMTP>2225</SMTP>
+	<POP3>3335</POP3>
+	<Autoload>10</Autoload>
+	<Important>urgent</Important>
+	<Work>meeting</Work>
+	<Spam>crack</Spam>
+</General>
+
